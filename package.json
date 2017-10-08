@@ -1,0 +1,29 @@
+{
+  "name": "has-scheme",
+  "version": "1.0.0",
+  "description": "Test if a URL has a scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc -r lcov perjury test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strugee/node-has-scheme.git"
+  },
+  "keywords": [
+    "test",
+    "url",
+    "scheme"
+  ],
+  "author": "AJ Jordan <alex@strugee.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strugee/node-has-scheme/issues"
+  },
+  "homepage": "https://github.com/strugee/node-has-scheme#readme",
+  "devDependencies": {
+    "coveralls": "^3.0.0",
+    "nyc": "^11.2.1",
+    "perjury": "^0.4.3"
+  }
+}
