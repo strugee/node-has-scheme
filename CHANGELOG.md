@@ -2,6 +2,12 @@
 
 `has-scheme` adheres to [Semantic Versioning](http://semver.org/).
 
+## 2.0.0 - future
+
+### Breaking
+
+* Drop Node 4 and 5 support
+
 ## 1.0.0 - 2017-10-08
 
 ### Added
