@@ -23,7 +23,7 @@
   "homepage": "https://github.com/strugee/node-has-scheme#readme",
   "devDependencies": {
     "coveralls": "^3.0.0",
-    "nyc": "^14.0.0",
+    "nyc": "^15.0.1",
     "perjury": "^1.0.1"
   },
   "engine": {
