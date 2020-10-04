@@ -1,6 +1,6 @@
 'use strict';
 
-const vows = require('perjury'),
+const vows = require('vows'),
       assert = vows.assert;
 
 vows.describe('has-scheme module').addBatch({

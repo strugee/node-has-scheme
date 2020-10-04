@@ -4,7 +4,7 @@
   "description": "Test if a URL has a scheme",
   "main": "index.js",
   "scripts": {
-    "test": "nyc -r lcov perjury test.js"
+    "test": "nyc -r lcov vows test.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   "devDependencies": {
     "coveralls": "^3.0.0",
     "nyc": "^15.1.0",
-    "perjury": "^1.0.1"
+    "vows": "^1.0.0-alpha.1"
   },
   "engine": {
     "node": ">=8"
