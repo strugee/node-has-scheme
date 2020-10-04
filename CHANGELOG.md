@@ -6,7 +6,7 @@
 
 ### Breaking
 
-* Drop Node 4 and 5 support
+* Drop Node 4, 5, 6 and 7 support
 
 ## 1.0.0 - 2017-10-08
 
